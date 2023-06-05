@@ -1,4 +1,3 @@
-
 # Install packages ------------------------------------------------------------
 packages1 <- c("magrittr","dplyr","gridExtra","rio","EnvStats","micEconIndex",
                "readr","dummies","broom","openxlsx","XLConnect","xlsx","readxl", 
